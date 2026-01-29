@@ -1,5 +1,10 @@
 # ai-license
 
+[![npm version](https://img.shields.io/npm/v/ai-license.svg)](https://www.npmjs.com/package/ai-license)
+[![npm downloads](https://img.shields.io/npm/dm/ai-license.svg)](https://www.npmjs.com/package/ai-license)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Picking a license shouldn't require a law degree. This tool explains each license in plain English and generates the LICENSE file for you.
 
 ## Install
