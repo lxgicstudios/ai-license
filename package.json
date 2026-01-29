@@ -1,7 +1,7 @@
 {
   "name": "ai-license",
   "version": "1.0.0",
-  "description": "Interactive license picker that explains licenses in plain English",
+  "description": "AI-powered license selector - choose the right open source license with GPT guidance",
   "main": "dist/index.js",
   "bin": {
     "ai-license": "dist/cli.js"
@@ -10,9 +10,21 @@
     "build": "tsc"
   },
   "keywords": [
-    "license",
     "ai",
-    "cli"
+    "openai",
+    "gpt",
+    "license",
+    "mit",
+    "apache",
+    "gpl",
+    "open-source",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "legal",
+    "copyright"
   ],
   "license": "MIT",
   "dependencies": {
