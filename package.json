@@ -1,5 +1,5 @@
 {
-  "name": "ai-license",
+  "name": "@lxgicstudios/ai-license",
   "version": "1.0.0",
   "description": "AI-powered license selector - choose the right open source license with GPT guidance",
   "main": "dist/index.js",
