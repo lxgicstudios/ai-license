@@ -15,31 +15,38 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "license",
-    "mit",
     "apache",
-    "gpl",
-    "open-source",
-    "developer-tools",
-    "cli",
     "automation",
-    "typescript",
-    "nodejs",
+    "claude",
+    "cli",
+    "copyright",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
+    "generative-ai",
     "legal",
-    "copyright"
+    "license",
+    "llm-optimized",
+    "modern-seo",
+    "nodejs",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-license#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-license"
+    "url": "https://github.com/LXGIC-Studios/ai-license"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-license/issues"
