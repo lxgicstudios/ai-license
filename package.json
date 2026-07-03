@@ -40,7 +40,8 @@
     "mit",
     "legal",
     "compliance",
-    "june-2026-core-update"
+    "june-2026-core-update",
+    "technical-seo"
   ],
   "license": "MIT",
   "main": "dist/index.js",
