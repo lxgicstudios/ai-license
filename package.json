@@ -49,10 +49,7 @@
     "june-2026-core-update",
     "legal",
     "license",
-    "mit",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "mit"
   ],
   "license": "MIT",
   "main": "dist/index.js",
